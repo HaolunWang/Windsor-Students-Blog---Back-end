@@ -8,7 +8,7 @@
 
 ## For back-end
 
-For this project, I used cloud atlas mongoDB.The connection string is coded in app.js which is under 
+For this project, I used cloud atlas mongoDB. The connection string is coded in app.js which is under 
 
 Windsor Students Blog - Back-end/my-blog-backend folder
 
