@@ -28,6 +28,6 @@ To test the connection with server, cd to my-blog-backend folder, and use the fo
 SET DEBUG=my-blog-backend:* & npm run devstart
 
 
-Additionally, here’s a screenshot of our collection in the mongoDB.
+Additionally, here’s a screenshot of the collection in the mongoDB.
 
 ![Picture3](https://user-images.githubusercontent.com/34309244/62990839-6d615300-be1b-11e9-8fc5-890625a1e180.png)
