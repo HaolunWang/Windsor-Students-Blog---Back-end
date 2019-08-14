@@ -2,9 +2,11 @@
  
  This is back-end part of Windsor Students Blog
 
-# For front-end part in this project
+## For front-end part in this project
 
 * [front-end](https://github.com/HaolunWang/Windsor-Students-Blog---Front-end)
+
+## For back-end
 
 For this project, I used cloud atlas mongoDB.
 The connection string is coded in app.js 
